@@ -1,0 +1,28 @@
+.navigation {
+	height: 40px;
+	align-items: center;
+	display: flex;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	background-color: white;
+}
+
+.lpn-logo{
+	padding-left: 2em;
+	height: 2em;
+}
+
+.logo {
+	display: flex;
+	justify-content: flex-start;
+	width: 50vw;
+}
+
+.menu {
+	display: flex;
+	justify-content: flex-end;
+	width: 50vw;
+	padding-right: 3em;
+}
