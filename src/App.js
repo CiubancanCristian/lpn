@@ -16,10 +16,39 @@ class App extends Component {
     super(props);
 
     this.state = {
-      menuClicked: false
+      menuClicked: false,
+      showInt: false,
+      showCur: false,
+      showAlt: false,
+      showRel: false,
+      showExc: false
     };
   }
-
+  intHandler = () => {
+    this.setState(prevState => {
+      return { showInt: !prevState.showInt };
+    });
+  };
+  curHandler = () => {
+    this.setState(prevState => {
+      return { showCur: !prevState.showCur };
+    });
+  };
+  altHandler = () => {
+    this.setState(prevState => {
+      return { showAlt: !prevState.showAlt };
+    });
+  };
+  relHandler = () => {
+    this.setState(prevState => {
+      return { showRel: !prevState.showRel };
+    });
+  };
+  excHandler = () => {
+    this.setState(prevState => {
+      return { showExc: !prevState.showExc };
+    });
+  };
   navMenuHandler = () => {
     this.setState(prevState => {
       return { menuClicked: !prevState.menuClicked };
@@ -37,7 +66,18 @@ class App extends Component {
             <header className="App-header"></header>
             <div className="main-page">
               <MainSection />
-              <AboutSection />
+              <AboutSection
+                int={this.intHandler}
+                cur={this.curHandler}
+                alt={this.altHandler}
+                rel={this.relHandler}
+                exc={this.excHandler}
+                showInt={this.state.showInt}
+                showCur={this.state.showCur}
+                showAlt={this.state.showAlt}
+                showRel={this.state.showRel}
+                showExc={this.state.showExc}
+              />
               <BrothersSection />
               <CareersSection />
               <RushSection />
