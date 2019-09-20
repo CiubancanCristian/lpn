@@ -4,7 +4,9 @@ import "./rush.styles.css";
 
 const RushSection = () => (
 	<div className="rush-section">
-		<p>AICI VA FI Rush</p>
+		<div className="sub-section">
+			<p>AICI VA FI Rush</p>
+		</div>
 	</div>
 );
 

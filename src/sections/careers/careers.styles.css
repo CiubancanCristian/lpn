@@ -1,5 +1,22 @@
-.careers-section{
+.careers-section {
 	background-color: white;
 	min-height: 100vh;
-	width: 100vw;
+	width: 100%;
+}
+
+.careers-title{
+	padding-top: 20px;
+}
+
+.sub-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.company-container {
+	padding: 20px;
+}
+
+.company {
+	width: 200px;
 }

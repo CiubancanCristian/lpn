@@ -5,6 +5,7 @@
 .main-page {
 	padding: 0px;
 	margin: 0px;
+	width: 98.5vw;
 	min-height: 100vh;
 	background: url("./assets/background.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
