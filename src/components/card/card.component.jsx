@@ -4,7 +4,7 @@ import "./card.styles.css";
 import logo from "../../assets/li_logo.png";
 
 const Card = ({ name, section, classTaken, work, linkedin, poza }) => {
-	var imgurl = "brothers/" + name.replace(/ /g, "_") + ".JPG";
+	var imgurl = "brothers/" + name.replace(/ /g, "_") + ".jpg";
 	var pic = require(`../../assets/${imgurl}`);
 	console.log(imgurl);
 	return (
