@@ -30,7 +30,6 @@ class App extends Component {
     };
   }
   componentDidMount() {
-    console.log(persons);
     this.setState({ brothers: persons.Brothers.brothers });
   }
 

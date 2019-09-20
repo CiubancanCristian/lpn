@@ -4,7 +4,7 @@ const Video = ({ src }) => (
 	<iframe
 		allowFullScreen
 		title="demo"
-		frameborder="0"
+		frameBorder="0"
 		height="315"
 		src={src}
 		width="560"
