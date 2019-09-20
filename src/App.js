@@ -11,19 +11,29 @@ import CareersSection from "./sections/careers/careers.section";
 import RushSection from "./sections/rush/rush.section";
 import ContactSection from "./sections/contact/contact.section";
 
+import persons from "./assets/brothers.json";
+
 class App extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
+      brothers: [],
       menuClicked: false,
       showInt: false,
       showCur: false,
       showAlt: false,
       showRel: false,
-      showExc: false
+      showExc: false,
+      showHis: false,
+      showMis: false
     };
   }
+  componentDidMount() {
+    console.log(persons);
+    this.setState({ brothers: persons.Brothers.brothers });
+  }
+
   intHandler = () => {
     this.setState(prevState => {
       return { showInt: !prevState.showInt };
@@ -49,6 +59,16 @@ class App extends Component {
       return { showExc: !prevState.showExc };
     });
   };
+  hisHandler = () => {
+    this.setState(prevState => {
+      return { showHis: !prevState.showHis };
+    });
+  };
+  misHandler = () => {
+    this.setState(prevState => {
+      return { showMis: !prevState.showMis };
+    });
+  };
   navMenuHandler = () => {
     this.setState(prevState => {
       return { menuClicked: !prevState.menuClicked };
@@ -72,13 +92,17 @@ class App extends Component {
                 alt={this.altHandler}
                 rel={this.relHandler}
                 exc={this.excHandler}
+                his={this.hisHandler}
+                mis={this.misHandler}
                 showInt={this.state.showInt}
                 showCur={this.state.showCur}
                 showAlt={this.state.showAlt}
                 showRel={this.state.showRel}
                 showExc={this.state.showExc}
+                showHis={this.state.showHis}
+                showMis={this.state.showMis}
               />
-              <BrothersSection />
+              <BrothersSection brothers={this.state.brothers} />
               <CareersSection />
               <RushSection />
               <ContactSection />

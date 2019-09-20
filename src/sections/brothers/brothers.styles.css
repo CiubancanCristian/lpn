@@ -1,4 +1,15 @@
-.brothers-section{
-	min-height:95vh;
+* {
+	margin: 0px;
+	padding: 0px;
+}
+div {
+	display: inline-block;
+}
+.brothers-section {
+	background: rgba(0, 0, 0, 0.5);
+	min-height: 100vh;
 	color: white;
+	display: flex-wrap;
+	justify-content: center;
+	align-items: center;
 }

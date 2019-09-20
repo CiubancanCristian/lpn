@@ -1,0 +1,38 @@
+.card {
+	margin: 10px;
+	padding: 50px;
+	height: 400px;
+}
+
+.details-text {
+	font-size: 9px;
+	padding-top:5px;
+}
+
+.card-body {
+	display: inline-block;
+	background: rgba(255, 255, 255, 0.3);
+	width: 200px;
+	height: 380px;
+}
+
+.card-image {
+	width: 180px;
+	padding: 5px;
+}
+.card-details {
+	display: flex;
+	flex-direction: column;
+	color: white;
+	height:380px;
+}
+a:link {
+	text-decoration: none;
+	color: white;
+}
+
+a:visited {
+	text-decoration: none;
+
+	color: white;
+}

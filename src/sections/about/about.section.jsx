@@ -109,6 +109,139 @@ const AboutSection = props => (
 					</p>
 				) : null}
 			</div>
+			<div className="core-values">
+				<h5 className="click dim" onClick={props.his}>
+					ΛΦΝ HISTORY
+				</h5>
+			</div>
+			<div>
+				{props.showHis ? (
+					<div>
+						<p>
+							Lambda Phi Nu is a UC Irvine-founded business
+							leadership community for students seeking leadership
+							development and coaching. We immerse our members in
+							an environment that emulates the professional world
+							to prepare them for a more successful future.
+						</p>
+						<p className="aside-paragraph">OUR HERITAGE</p>
+						<p className="aside-paragraph">
+							The Global Financial Crisis of 2008 was the catalyst
+							for starting Lambda Phi Nu. At a macro level, the
+							housing bubble burst, Dow Jones prices were at a
+							historical low, and 1.2 million jobs were lost
+							within one year. At a micro-level, students felt the
+							impact with rising tuition, curtailed financial aid,
+							and shortage in faculty. There was also a drought in
+							local job opportunities. To make matters worse,
+							UCI’s business program was still young. Its
+							undergraduate business program only initiated its
+							first 200 students in the Fall of 2008. Thus UCI was
+							a school many companies considered dropping their
+							sponsorship and support.
+						</p>
+						<p className="aside-paragraph">
+							In the midst of these challenging times arose a
+							group of student leaders who wanted to create
+							opportunities for UCI’s business students. It began
+							with the Accounting Association Officer Board
+							seeking to make UCI a target school for public
+							accounting firms. As a result of pursuing this
+							vision, a deep camaraderie was formed between the
+							Officers – reflecting a brotherhood like that of a
+							Fraternity. In the summer of 2010, our founding
+							Chief Executive Officer, decided to extend this
+							spirit of brotherhood to student leaders in other
+							organizations. Subsequently, the officers from
+							Accounting Association, President and Founder of
+							Merage Undergraduate Student Association, Senior
+							Advisor of Undergraduate Business Association,
+							President of Undergraduate Finance Association,
+							President and Founder of Management Information
+							Student Society, and a Paul Merage MBA candidate
+							convened to form Lambda Phi Nu – 16 Founding Fathers
+							in total*.
+						</p>
+						<p className="aside-paragraph">
+							Although a majority of the Founders already received
+							full-time offers, they decided to dedicate their
+							last year at UCI mentoring students, growing
+							sponsorships, and launching new initiatives. Their
+							motive was to give back to UCI and cultivate a
+							legacy of student leaders who also wanted to give
+							back. Lambda Phi Nu continues to push the envelope
+							to make our school more competitive in the business
+							community through fostering collaboration among
+							student leaders. In the words of the Apostle Paul,
+							“do nothing out of selfish ambition or vain conceit.
+							Rather, in humility value others above yourselves.”
+							Thus, Lambda Phi Nu serves students who are
+							challenged to grow forward and called to give back.
+							Our reason to exist has been and will always be to
+							“Grow Forward, Give Back” – one leader, one
+							community, and one campus at a time.
+						</p>
+						<p className="aside-paragraph">
+							CHAPTER FOUNDED AND REBRANDED
+						</p>
+						<p className="aside-paragraph">
+							The Chapter was founded in 2010 as Beta Alpha Psi
+							and rebranded into Lambda Phi Nu in 2014 due to
+							fundamental differences within organizational
+							structures. Standard Beta Alpha Psi chapters operate
+							under an honor society structure; however the Irvine
+							chapter sought to operate under a fraternity
+							structure. We at Lambda Phi Nu believed our value
+							proposition would be lost if we changed our
+							organizational structure and chose to rebrand under
+							Lambda Phi Nu in order to preserve the culture and
+							mission that we currently held.
+						</p>
+						<p className="aside-paragraph">
+							*FOUNDING C-SUITE INCLUDED: MR. DENNIS YU (CEO), MR.
+							MICHAEL WEN (CFO), MR. BRANDON SHIAW (CIO), MR. ART
+							REYES (COO), AND MS. EMILY RONG (CTO). FOUNDING
+							FATHERS INCLUDED: MS. IRIS CHAN, MR. EDWARD CHOW,
+							MR. NATHAN KOBAYASHI, MS. CHRISTINE LIAO, MS. LUCY
+							LUXIAO, MS. MICHELLE NGUYEN, MS. EVA PARK, MR. JAMES
+							SHEN, MR. ADAM WHITESCARVER, MS. JESSICA WONG, AND
+							MS. TONIE ZHU.
+						</p>
+					</div>
+				) : null}
+				<div className="core-values">
+					<h5 className="click dim" onClick={props.mis}>
+						MISSION STATEMENT
+					</h5>
+				</div>
+			</div>
+			<div>
+				{props.showMis ? (
+					<div>
+						<p className="aside-paragraph">MISSION STATEMENT</p>
+						<p className="aside-paragraph">
+							Lambda Phi Nu is a business leadership fraternity
+							committed to igniting leaders by immersing
+							Associates into an environment full of driven
+							individuals, offering experiences through a
+							curriculum which emulates the professional world,
+							and providing mentorship which allows each of our
+							Associates to craft their own development roadmap;
+							illuminating communities by calling every active
+							Partner to start new campus initiatives and/or to
+							advocate for a campus organization they wish to
+							impact, while creating meaningful relationships
+							along the way; and inspiring legacies by creating
+							long-lasting impacts on other individuals and
+							organizations, and through the continued
+							relationship and involvement of our active and
+							alumni brothers with our organization and campus.
+						</p>
+						<p className="aside-paragraph"></p>
+						<p className="aside-paragraph"></p>
+					</div>
+				) : null}
+			</div>
 		</div>
 	</div>
 );

@@ -1,0 +1,335 @@
+{
+   "Brothers": {
+      "brothers": [
+         {
+            "Section": "C-Suite",
+            "Name": "Jeff Lu",
+            "Class": "Iota",
+            "Worked_At": "Accenture",
+            "LinkedIn": "https://www.linkedin.com/in/jeffyinlu/"
+         },
+         {
+            "Section": "C-Suite",
+            "Name": "Ryan Chen",
+            "Class": "Eta",
+            "Worked_At": "Infoblox",
+            "LinkedIn": "https://www.linkedin.com/in/ryan-chen-b12561130/"
+         },
+         {
+            "Section": "C-Suite",
+            "Name": "Emily Nguyen",
+            "Class": "Theta",
+            "Worked_At": "EY",
+            "LinkedIn": "https://www.linkedin.com/in/emilynguyen5/"
+         },
+         {
+            "Section": "C-Suite",
+            "Name": "Janessa Paredes",
+            "Class": "Iota",
+            "Worked_At": "UC Irvine Athletics",
+            "LinkedIn": "https://www.linkedin.com/in/jparedes30/"
+         },
+         {
+            "Section": "C-Suite",
+            "Name": "David Sonq",
+            "Class": "Kappa",
+            "Worked_At": "EY",
+            "LinkedIn": "https://www.linkedin.com/in/davidsonq/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Ben Fan",
+            "Class": "Kappa",
+            "Worked_At": "UCI",
+            "LinkedIn": "https://www.linkedin.com/in/benfan1123/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Aira Samontina",
+            "Class": "Kappa",
+            "Worked_At": "Benefit Funding Retirement Services",
+            "LinkedIn": "https://www.linkedin.com/in/asamontina/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Karen Ching",
+            "Class": "Kappa",
+            "Worked_At": "UCI",
+            "LinkedIn": "https://www.linkedin.com/in/kching/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Jasmin He",
+            "Class": "Kappa",
+            "Worked_At": "Daniel Wellington",
+            "LinkedIn": "https://www.linkedin.com/in/jasminhe/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Le An Pham",
+            "Class": "Kappa",
+            "Worked_At": "MAB",
+            "LinkedIn": "https://www.linkedin.com/in/lean-pham/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Tiffany Wong",
+            "Class": "Kappa",
+            "Worked_At": "City of Redwood City",
+            "LinkedIn": "https://www.linkedin.com/in/tiffanylwong/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Julian Rachman",
+            "Class": "Iota",
+            "Worked_At": "Pollenly",
+            "LinkedIn": "https://www.linkedin.com/in/julian-rachman/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Tiffany Chan",
+            "Class": "Iota",
+            "Worked_At": "RSM US LLP",
+            "LinkedIn": "https://www.linkedin.com/in/tiffanyh-chan/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Jeffrey Cho",
+            "Class": "Kappa",
+            "Worked_At": "Optum",
+            "LinkedIn": "https://www.linkedin.com/in/jeffreywellscho/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Stephen Minn",
+            "Class": "Kappa",
+            "Worked_At": "UBA",
+            "LinkedIn": "https://www.linkedin.com/in/jeffreywellscho/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Katie Xiong",
+            "Class": "Eta",
+            "Worked_At": "Experian",
+            "LinkedIn": "https://www.linkedin.com/in/katie-xiong/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Kevin Loc",
+            "Class": "Iota",
+            "Worked_At": "Siemens PLM Software",
+            "LinkedIn": "https://www.linkedin.com/in/kevin-loc/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Jenny Cheung",
+            "Class": "Kappa",
+            "Worked_At": "Cylance",
+            "LinkedIn": "https://www.linkedin.com/in/jennycheung9/"
+         },
+         {
+            "Section": "Directors",
+            "Name": "Alexis Rivera",
+            "Class": "Kappa",
+            "Worked_At": "Greenhouse Agency",
+            "LinkedIn": "https://www.linkedin.com/in/alexiskimrivera/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Aira Samontina",
+            "Class": "Kappa",
+            "Worked_At": "Benefit Funding Retirement Services",
+            "LinkedIn": "https://www.linkedin.com/in/asamontina/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Alexis Rivera",
+            "Class": "Kappa",
+            "Worked_At": "Greenhouse Agency",
+            "LinkedIn": "https://www.linkedin.com/in/alexiskimrivera/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Andrew Jin",
+            "Class": "Iota",
+            "Worked_At": "UCI",
+            "LinkedIn": "https://www.linkedin.com/in/jinandrew2/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Andrew Kusnohadi",
+            "Class": "Theta",
+            "Worked_At": "Optum",
+            "LinkedIn": "https://www.linkedin.com/in/andrewkusnohadi/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Astyr Ko",
+            "Class": "Theta",
+            "Worked_At": "Greenhouse Agency",
+            "LinkedIn": "https://www.linkedin.com/in/astyrko/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Ben Fan",
+            "Class": "Kappa",
+            "Worked_At": "UCI",
+            "LinkedIn": "https://www.linkedin.com/in/benfan1123/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "David Sonq",
+            "Class": "Kappa",
+            "Worked_At": "EY",
+            "LinkedIn": "https://www.linkedin.com/in/davidsonq/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Dominic Wright",
+            "Class": "Theta",
+            "Worked_At": "Cox Communications",
+            "LinkedIn": "https://www.linkedin.com/in/dominicwright/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Emily Nguyen",
+            "Class": "Theta",
+            "Worked_At": "EY",
+            "LinkedIn": "https://www.linkedin.com/in/emilynguyen5/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Janessa Paredes",
+            "Class": "Iota",
+            "Worked_At": "UC Irvine Athletics",
+            "LinkedIn": "https://www.linkedin.com/in/jparedes30/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Jasmin He",
+            "Class": "Kappa",
+            "Worked_At": "Daniel Wellington",
+            "LinkedIn": "https://www.linkedin.com/in/jasminhe/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Jeff Lu",
+            "Class": "Iota",
+            "Worked_At": "Accenture",
+            "LinkedIn": "https://www.linkedin.com/in/jeffyinlu/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Jeffrey Cho",
+            "Class": "Kappa",
+            "Worked_At": "Optum",
+            "LinkedIn": "https://www.linkedin.com/in/jeffreywellscho/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Jenny Cheung",
+            "Class": "Kappa",
+            "Worked_At": "Cylance",
+            "LinkedIn": "https://www.linkedin.com/in/jennycheung9/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Julian Rachman",
+            "Class": "Iota",
+            "Worked_At": "Pollenly",
+            "LinkedIn": "https://www.linkedin.com/in/julian-rachman/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Karen Ching",
+            "Class": "Kappa",
+            "Worked_At": "UCI",
+            "LinkedIn": "https://www.linkedin.com/in/kching/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Katie Xiong",
+            "Class": "Eta",
+            "Worked_At": "Experian",
+            "LinkedIn": "https://www.linkedin.com/in/katie-xiong/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Kevin Loc",
+            "Class": "Iota",
+            "Worked_At": "Siemens PLM Software",
+            "LinkedIn": "https://www.linkedin.com/in/kevin-loc/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Nicholas Tam",
+            "Class": "Theta",
+            "Worked_At": "RSM US LLP",
+            "LinkedIn": "https://www.linkedin.com/in/nicholastam1298/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Romeo Li",
+            "Class": "Kappa",
+            "Worked_At": "EY",
+            "LinkedIn": "https://www.linkedin.com/in/romeoli/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Ryan Chen",
+            "Class": "Eta",
+            "Worked_At": "Infoblox",
+            "LinkedIn": "https://www.linkedin.com/in/ryan-chen-b12561130/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Sandy Nguyen",
+            "Class": "Kappa",
+            "Worked_At": "Aeromates Co.",
+            "LinkedIn": "https://www.linkedin.com/in/-sandy-nguyen/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Stephen Minn",
+            "Class": "Kappa",
+            "Worked_At": "UBA",
+            "LinkedIn": "https://www.linkedin.com/in/jeffreywellscho/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Tiffany Chan",
+            "Class": "Iota",
+            "Worked_At": "RSM US LLP",
+            "LinkedIn": "https://www.linkedin.com/in/tiffanyh-chan/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Tiffany Wong",
+            "Class": "Kappa",
+            "Worked_At": "City of Redwood City",
+            "LinkedIn": "https://www.linkedin.com/in/tiffanylwong/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Tony Zhou",
+            "Class": "Iota",
+            "Worked_At": "EY",
+            "LinkedIn": "https://www.linkedin.com/in/tony-gzhou/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Tri Do",
+            "Class": "Theta",
+            "Worked_At": "KPMG",
+            "LinkedIn": "https://www.linkedin.com/in/trimd/"
+         },
+         {
+            "Section": "Active Brothers",
+            "Name": "Vivi Liu",
+            "Class": "Iota",
+            "Worked_At": "BigByte Education",
+            "LinkedIn": "https://www.linkedin.com/in/vivi-liu/"
+         }
+      ]
+   }
+}
