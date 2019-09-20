@@ -9,9 +9,6 @@ const RushSection = () => (
 		<div className="sub-section">
 			<h1>Fall Rush 2019</h1>
 		</div>
-		<div>
-			<Video src="https://www.youtube.com/embed/B7xLhxnaju0" />
-		</div>
 		<h2>GROW FORWARD, GIVE BACK.</h2>
 		<h1>ΛΦΝ RECRUITMENT EVENTS </h1>
 		<div className="lpn-event">
